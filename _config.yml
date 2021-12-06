@@ -1,8 +1,8 @@
-title: U Meenu Krishnan # The title of the blog
-author: U Meenu Krishnan # Your name 
-email: meenukris130993@gmail.com # your email shown in the footer
+title: Mehul Bagaria # The title of the blog
+author: Mehul Bagaria # Your name 
+email: mehulbagaria12@gmail.com # your email shown in the footer
 
-url: "https://umeenukrishnan.github.io" # this is your site's root address.
+url: "https://mehul-bagaria.github.io" # this is your site's root address.
 
 
 
@@ -22,16 +22,16 @@ moving:
 
   # generate social links in about page.
   social_links:
-    twitter: meenu1309
-    github:  umeenukrishnan
-    scholar: hjyZvdgAAAAJ
-    researchgate: Meenu_Krishnan
+    #twitter: meenu1309
+    github:  Mehul-Bagaria
+    #scholar: hjyZvdgAAAAJ
+    researchgate: Mehul-Bagaria
     # rss: RSS
     # dribbble: 
     # facebook: huangyz0918
     # flickr:   
     # instagram: 
-    # linkedin: yizheng-huang
+    linkedin: mehul-bagaria-38ab5a119
     # pinterest: 
     # youtube: UCpj8oznjjLwVe5KHOGNrvnQ
     # youtube_channel: 
