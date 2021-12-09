@@ -10,13 +10,13 @@ tag:
 
 When dealing with the structure subjected to the thermal loading, one terms comes very frequently and that is **thermal compliance**. But term is rarely defined in any literature, what we frequently see is the mathematical expression -
 
-$Thermal -Compliance = \frac{1}{2} P \times T$
+$$Thermal -Compliance = \frac{1}{2} P \times T$$
 
 where, P is the power i.e. heat and T is temperature.
 
 Thermal compliance is analogous to the structural compliance i.e. **strain energy** stored in the structure which can be defined as
 
-$Structural- Compliance =  \frac{1}{2} \sigma \times \epsilon \,= \frac{1}{2}P \times \delta$
+$$Structural- Compliance =  \frac{1}{2} \sigma \times \epsilon \,= \frac{1}{2}P \times \delta$$
 
 where, P is the force and $\delta$ is the displacement
 
