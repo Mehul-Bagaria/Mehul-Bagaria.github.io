@@ -14,7 +14,7 @@ The whole report can be divided into three major sections :
 * Content (body of the report) - it should cover the motivation of the work, purpose that is intended, design, methodology and approach of the work, originality of the work and value that it imparts and finally the findings of the work.
 * Conclusion -  it should summarize the findings of the work in an unbiased manner, describing the actual findings including favorable as well unfavorable ones. 
 
-**Figures** - The maximum width should be $150mm$ and font size should be same as that in the document i.e. $10 points$.
+**Figures** - The maximum width should be $$150mm$$ and font size should be same as that in the document i.e. $$10 points$$.
 
 ​	The caption of the figures should be able to convey the intent of the image by describing the image in the detailed manner including  it's relevance and finding.
 
