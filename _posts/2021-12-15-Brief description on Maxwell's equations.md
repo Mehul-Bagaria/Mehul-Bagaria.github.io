@@ -13,7 +13,7 @@ tag:
 Maxwell's equations are set of coupled partial differential equations, that combines  all of the phenomena discovered by Oersted, Ampère, Henry, Faraday and others into set of 4 equations which then became the foundation of  classical electromagnetism, optics, magnetism and electricity.  The equations acts as mathematical model for electrical, radio, electric motors, sensors, radar and lenses etc.
 
 <img src="../assets/images/maxwell.png" style="zoom:25%;" />
-![](../assets/images/maxwell.png)
+![](/assets/images/maxwell.png)
 
 
 
