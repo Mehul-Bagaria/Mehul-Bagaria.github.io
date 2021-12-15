@@ -29,20 +29,19 @@ Since, surface integral of a vector field over a closed surface is equal to the 
 $$\int_{\text {volume }} \operatorname{div} \mathbf{D} d v=\int_{\text {volume }} \rho d v$$
 
 which gives
-$$
-\nabla \cdot D=\rho
-$$
+
+$$\nabla \cdot D=\rho$$
 
 ### Maxwell's Second Equation
 
-Magnetic lines of force are closed curves and the magnetic fields have no source or sinks. Consequently the surface integral of the magnetic field over a closed surface is zero and therefore
+Magnetic lines of force are closed curves and the magnetic fields have no source or sinks. Consequently the surface integral of the magnetic field over a closed surface is zero and therefore  
 
 $$\int_{\text {surface }} \mathbf{B} \cdot d \boldsymbol{\sigma}= \int_{\text {volume }} \operatorname{div} \mathbf{B} d v = 0$$
 
-which gives
-$$
-\nabla \cdot B=0
-$$
+which gives  
+
+$$\nabla \cdot B=0$$   
+
 *Electric field has source and sink*
 
 ### Maxwell's Third Equation
@@ -59,7 +58,9 @@ Therefore,
 
 $$\int_{\text {surface }} \operatorname{curl} \mathbf{E}. d \boldsymbol{ \sigma}  = - \int_{\text {surface }} \operatorname{curl} \mathbf {\dot B} . d \boldsymbol{ \sigma}$$
 
-which gives,
+which gives,  
+
+
 $$
 \nabla \times E=-\frac{\partial B}{\partial t}
 $$
@@ -76,12 +77,11 @@ $$\int_{\text {area }} \operatorname{curl} \mathbf{H} \cdot d \sigma=\int_{\text
 
 which gives
 
-$$\operatorname{curl} \mathbf{H}=\dot{\mathbf{D}}+\mathbf{J}$$
+$$\operatorname{curl} \mathbf{H}=\dot{\mathbf{D}}+\mathbf{J}$$  
 
-or 
-$$
-\nabla \times H=\frac{\partial D}{\partial t}+J
-$$
+or   
+
+$$\nabla \times H=\frac{\partial D}{\partial t}+J$$  
 
 *Reference - [Physics LibreTexts](https://phys.libretexts.org/Bookshelves/Electricity_and_Magnetism/Book%3A_Electricity_and_Magnetism_(Tatum)/15%3A_Maxwell's_Equations)*
 
