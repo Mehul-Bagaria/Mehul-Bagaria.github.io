@@ -49,15 +49,15 @@ $$
 
 Based on the Faraday's and Len'z laws of electromagnetic induction, which state that the $$e.m.f.$$ induced in a closed circuit is equal to minus the rate of change of B-flux through the circuit i.e. surface integral of $\mathbf {\dot B}$
 
-$e.m.f. = - \int_{\text {surface }} \operatorname{curl} \mathbf {\dot B} . d \boldsymbol{ \sigma}$
+$$e.m.f. = - \int_{\text {surface }} \operatorname{curl} \mathbf {\dot B} . d \boldsymbol{ \sigma}$$
 
 Since $$e.m.f.$$ around a closed circuit is the line integral of electric field  $$E$$ around the circuit , which is equal to the surface integral of it's curl, as defined below
 
-$e.m.f = \int_{\text {line }} \mathbf{E} \cdot d \boldsymbol{s}= \int_{\text {surface }} \operatorname{curl} \mathbf{E}. d \boldsymbol{ \sigma}$
+$$e.m.f = \int_{\text {line }} \mathbf{E} \cdot d \boldsymbol{s}= \int_{\text {surface }} \operatorname{curl} \mathbf{E}. d \boldsymbol{ \sigma}$$
 
 Therefore,
 
-$\int_{\text {surface }} \operatorname{curl} \mathbf{E}. d \boldsymbol{ \sigma}  = - \int_{\text {surface }} \operatorname{curl} \mathbf {\dot B} . d \boldsymbol{ \sigma}$
+$$\int_{\text {surface }} \operatorname{curl} \mathbf{E}. d \boldsymbol{ \sigma}  = - \int_{\text {surface }} \operatorname{curl} \mathbf {\dot B} . d \boldsymbol{ \sigma}$$
 
 which gives,
 $$
@@ -82,6 +82,7 @@ or
 $$
 \nabla \times H=\frac{\partial D}{\partial t}+J
 $$
+
 *Reference - [Physics LibreTexts](https://phys.libretexts.org/Bookshelves/Electricity_and_Magnetism/Book%3A_Electricity_and_Magnetism_(Tatum)/15%3A_Maxwell's_Equations)*
 
 ​	
