@@ -40,13 +40,13 @@ $$\int_{\text {surface }} \mathbf{B} \cdot d \boldsymbol{\sigma}= \int_{\text {v
 
 which gives  
 
-$$\nabla \cdot B=0$$   
+$$\nabla \cdot \mathbf{B} = 0$$   
 
 *Electric field has source and sink*
 
 ### Maxwell's Third Equation
 
-Based on the Faraday's and Len'z laws of electromagnetic induction, which state that the $$e.m.f.$$ induced in a closed circuit is equal to minus the rate of change of B-flux through the circuit i.e. surface integral of $\mathbf {\dot B}$
+Based on the Faraday's and Len'z laws of electromagnetic induction, which state that the $$e.m.f.$$ induced in a closed circuit is equal to minus the rate of change of B-flux through the circuit i.e. surface integral of $$\mathbf {\dot B}$$
 
 $$e.m.f. = - \int_{\text {surface }} \operatorname{curl} \mathbf {\dot B} . d \boldsymbol{ \sigma}$$
 
@@ -62,7 +62,7 @@ which gives,
 
 
 $$
-\nabla \times E=-\frac{\partial B}{\partial t}
+\nabla \times \mathbf{E}=-\frac{\partial \mathbf{B}}{\partial t}
 $$
 
 ### Maxwell's Fourth Equation
@@ -81,7 +81,7 @@ $$\operatorname{curl} \mathbf{H}=\dot{\mathbf{D}}+\mathbf{J}$$
 
 or   
 
-$$\nabla \times H=\frac{\partial D}{\partial t}+J$$  
+$$\nabla \times \mathbf{H} =\frac{\partial \mathbf{D}}{\partial t}+ \mathbf{J}$$  
 
 *Reference - [Physics LibreTexts](https://phys.libretexts.org/Bookshelves/Electricity_and_Magnetism/Book%3A_Electricity_and_Magnetism_(Tatum)/15%3A_Maxwell's_Equations)*
 
