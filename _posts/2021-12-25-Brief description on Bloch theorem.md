@@ -48,13 +48,13 @@ $$
 $$
 \varepsilon( \mathbf{x} + \mathbf{\Lambda_{pqr}} ) = \varepsilon (\mathbf{x})
 $$
-![Diffraction grating](assets/images/bloch_2.png)
+![Diffraction grating](/assets/images/bloch_2.png)
 
 ### Band diagram
 
 Plot between the normalized frequencies (eigen values) and the Bloch wave vector $$\mathbf{\beta}$$ .
 
-![EM solver](assets/images/bloch_3.png)
+![EM solver](/assets/images/bloch_3.png)
 
 Steps - 
 
@@ -80,14 +80,14 @@ Steps -
 
 ### Phase v/s Power flow - 
 
-![Phase v/s power flow](assets/images/bloch_5.png)
+![Phase v/s power flow](/assets/images/bloch_5.png)
 
 - Phase propagates in the direction of $$\mathbf k$$.
 - Power propagates in the direction of the poynting vector $$\mathbf{\zeta}$$ , which is normal to the surface of the index ellipsoid. 
 
-**Example - ** self collimation, where wave is forced to move straight (in the direction of the power $$\mathbf{\zeta}$$ )
+**Example** - self collimation, where wave is forced to move straight (in the direction of the power $$\mathbf{\zeta}$$ )
 
 ​					negative refractive index 
 
-![Negative refraction](assets/images/bloch_6.png)
+![Negative refraction](/assets/images/bloch_6.png)
 
