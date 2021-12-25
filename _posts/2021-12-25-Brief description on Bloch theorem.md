@@ -89,3 +89,4 @@ Steps -
 
 ![Negative refraction](/assets/images/bloch_6.png)
 
+Reference - [EMPossible](https://www.youtube.com/watch?v=4O0A1HFilOo)
