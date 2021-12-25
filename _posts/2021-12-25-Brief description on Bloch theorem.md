@@ -85,7 +85,7 @@ Steps -
 - Phase propagates in the direction of $$\mathbf k$$.
 - Power propagates in the direction of the poynting vector $$\mathbf{\zeta}$$ , which is normal to the surface of the index ellipsoid. 
 
-**Example - ** self collimation, where wave is forced to move straight (in the direction of the power $$\mathbf{\zeta}$$ )
+**Example** - self collimation, where wave is forced to move straight (in the direction of the power $$\mathbf{\zeta}$$ )
 
 ​					negative refractive index 
 
