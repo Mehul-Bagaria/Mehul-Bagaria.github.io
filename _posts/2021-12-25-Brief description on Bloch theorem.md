@@ -62,9 +62,7 @@ Steps -
 * compute the eigen values at each step
 * plot eigen values as a function of $$\beta$$
 
-
-
-
+![Band diagram](/assets/images/bloch_4.png)
 
 *Moving horizontally in X-axis, the periodicity and the direction of the wave propagation changes.*
 
