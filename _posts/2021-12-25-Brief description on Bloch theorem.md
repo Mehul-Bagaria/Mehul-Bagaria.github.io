@@ -18,17 +18,16 @@ Waves propagating in the periodic structure takes on the symmetry and periodicit
 
 ### Bloch theorem
 
-<<<<<<< HEAD
 The propagation of wave inside  periodic structure are analogous to plane wave, and the envelop function $$u(\mathbf{r})$$ takes in the effects of periodicity and symmetry within the structure.  
 $$
 \psi(\mathbf{r})=\mathrm{e}^{\mathrm{i} \mathbf{k} \cdot \mathbf{r}} u(\mathbf{r})
 $$
-=======
+
 The propagation of wave inside  periodic structure are analogous to plane wave, and the envelop function $$u(\mathbf{r})$$ takes in the effects of periodicity and symmetry within the structure.
 
 $$ \psi(\mathbf{r})=\mathrm{e}^{\mathrm{i} \mathbf{k} \cdot \mathbf{r}} u(\mathbf{r}) $$
 
->>>>>>> ab96befe79fdb160b030de491bef54dc10253a58
+
 where, $$\psi(\mathbf{r})$$ is the overall field {combination of plane wave and periodic function}
 
 ​			$$u(\mathbf{r})$$ is the plane wave {Bloch wave vector}
@@ -39,12 +38,8 @@ where, $$\psi(\mathbf{r})$$ is the overall field {combination of plane wave and 
 
 #### Periodicity 
 
-<<<<<<< HEAD
-A structure is considered periodic, if it's material properties repeat after certain intervals.   
-=======
 A structure is considered periodic, if it's material properties repeat after certain intervals. 
 
->>>>>>> ab96befe79fdb160b030de491bef54dc10253a58
 $$
 \varepsilon( \mathbf{r} + \mathbf{t_{pqr}} ) = \varepsilon (\mathbf{r})
 $$
@@ -66,6 +61,8 @@ $$
 $$
 
 ![Diffraction grating](/assets/images/bloch_2.png)
+
+
 
 ### Band diagram
 
@@ -92,6 +89,8 @@ Steps -
 * Dispersion
 
 *Full band diagram is 3D*
+
+
 
 ### Phase v/s Power flow - 
 
