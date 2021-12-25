@@ -80,7 +80,7 @@ Steps -
 
 ### Phase v/s Power flow - 
 
-![Phase v/s power flow]0(/assets/images/bloch_5.png)
+![Phase v/s power flow](/assets/images/bloch_5.png)
 
 - Phase propagates in the direction of $$\mathbf k$$.
 - Power propagates in the direction of the poynting vector $$\mathbf{\zeta}$$ , which is normal to the surface of the index ellipsoid. 
