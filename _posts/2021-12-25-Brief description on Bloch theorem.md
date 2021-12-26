@@ -23,11 +23,9 @@ $$ \psi(\mathbf{r})=\mathrm{e}^{\mathrm{i} \mathbf{k} \cdot \mathbf{r}} u(\mathb
 
 where, $$\psi(\mathbf{r})$$ is the overall field {combination of plane wave and periodic function}
 
-​			$$u(\mathbf{r})$$ is the plane wave {Bloch wave vector}
+​			$$\mathrm{e}^{\mathrm{i} \mathbf{k} \cdot \mathbf{r}}$$  is the plane wave {Bloch wave vector}
 
-​			$$\mathrm{e}^{\mathrm{i} \mathbf{k} \cdot \mathbf{r}}$$  is the envelop function {takes the periodicity and symmetry of the periodic structure}
-
-
+​			$$u(\mathbf{r})$$ is the envelop function {takes the periodicity and symmetry of the periodic structure}
 
 #### Periodicity 
 
