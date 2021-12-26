@@ -63,7 +63,7 @@ Plot between the normalized frequencies (eigen values) and the Bloch wave vector
 
 Steps - 
 
-* take small step around the IBZ
+* take small step around the irreducible brillouin zone (IBZ)
 * compute the eigen values at each step
 * plot eigen values as a function of $$\beta$$
 
