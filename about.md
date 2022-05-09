@@ -6,4 +6,4 @@ I am working on *Topology Optimization (TO)* under different physics, including 
 
 My interests include metamaterials, nanomaterials, thermal engineering, energy harvesting and storage systems, and optimization techniques.
 
-| *Mechanical Engineering* ⚙️ | *Nanotechnology* ⚛︎ |
+| *Mechanical Engineering* ⚙️ | *Nanotechnology* 🔬 |
