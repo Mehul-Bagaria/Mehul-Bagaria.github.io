@@ -22,31 +22,41 @@ $$\mathrm{e}^{\mathrm{ik} \cdot \mathbf{r}}$$ is the plane wave {Bloch wave vect
 $$u(\mathbf{r})$$ is the envelop function {takes the periodicity and symmetry of the periodic structure}.
 
 **Bloch-floquet theory** or **periodicity** provides a methodology to analyze the wave propagation by just considering a single unit cell and applying the following boundary condition as 
+
 $$
     u(\mathbf{r}+\mathbf{R})=u(\mathbf{r}) e^{i \mathbf{k} \mathbf{r}}
 $$
+
 where, $$u()$$ is the field variable, $$\mathbf{r}$$ is the spatial coordinates of the boundaries, $$R$$ is the periodicity, and $$k$$ is the wavenumber.
 
 Wavenumber can be defined as the number of waves per unit length and is written as 
+
 $$
 k = \frac{1}{\lambda}
 $$
+
 A structure is considered periodic if its material properties repeat after certain intervals. For example in case of permittivity  \varepsilon $(\mathbf{r})$  can be defined as 
+
 $$
     \varepsilon( \mathbf{r} + \mathbf{t_{pqr}} ) = \varepsilon (\mathbf{r}) 
 $$
+
 where, $$\mathbf {t_{pqr}}$$ is the periodicity of the structure and $$\varepsilon$$  is the permittivity of the material.
 
 Consider a unit cell as shown in below having periodicity $$R$$ equal to 1 and the boundary value at left and right be $$u_l$$ and $$u_r$$, respectively. Then above equation reduces to 
+
 $$
 u(\mathbf{r}+1)=u(\mathbf{r}) e^{i \mathbf{k} \mathbf{r}}
 $$
+
 ![](/assets/images/floquet-periodicity-1.png)
 
 Considering the value of $$r$$ to be 1 at the left most side, then above equation becomes 
+
 $$
     u_r=u_l e^{i \mathbf{k}}
 $$
+
 which can also be written as,
 
 $$
