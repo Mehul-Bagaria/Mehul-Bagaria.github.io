@@ -26,13 +26,13 @@ It should contain the **main keyword** + **related keywords** (optional) + **mod
 
 `main-keyword + related keyword + modifiers `
 
-The main heading becomes the topic of the content and should contain the main keyword as a must. You can also add another related keyword on the heading apart from the main keyword.
+The main heading becomes the topic of the content and should contain the **main keyword** as a must. You can also add another **related keyword** on the heading apart from the main keyword.
 
 ![](../assets/images/related-keywords.png)
 
 ### Sub-heading & Content block
 
-To increase the chances of your post being first, you need to make sure that your sub-headings also contain the related **keywords** or their synonyms.
+To increase the chances of your post being first, you need to make sure that your sub-headings also contain the **related keywords** or their synonyms.
 
 `related kewords`
 
@@ -52,7 +52,7 @@ It comprises of two things -
 
 `Main keyword + Additional keyword + modifiers`
 
-- **Meta description** *[This doesn’t affect ranking but affects CTR]*- It is a snippet that provides short and relevant summary about a particular page.
+- **Meta description** *[This doesn’t affect ranking but affects Click-through rate (CTR)]*- It is a snippet that provides short and relevant summary about a particular page.
 
 ### Image optimization
 
