@@ -30,7 +30,7 @@ It should contain the **main keyword** + **related keywords** (optional) + **mod
 
 The main heading becomes the topic of the content and should contain the **main keyword** as a must. You can also add another **related keyword** on the heading apart from the main keyword.
 
-![](../assets/images/related-keywords.png)
+![Related keywords](../assets/images/related-keywords.png)
 
 ### Sub-heading & Content block
 
@@ -46,7 +46,7 @@ Presence of **related keywords** in the sub-heading improves indexing of the pag
 
 It shows additional information about the page in the search results. It is not directly shown on your website page. Here is an example of what meta-data looks like when searching in a search engine.
 
-![](../assets/images/meta-description.png)
+![Meta-data example](../assets/images/meta-description.png)
 
 It comprises of two things -
 
@@ -83,7 +83,7 @@ You can add an internal link by adding **an in-text link** or by adding separate
 Example of **in-text link:** [‘Anchor text’](https://yoast.com/what-is-anchor-text/#:~:text=Anchor%20text%20%E2%80%94%20or%20link%20text,they%20click%20on%20the%20link.)
 
 Example of link-blocks: “Related post” at the end of the page.
-![image-20220716214950860](../assets/images/link_block-related_images.png)
+![Link block example](../assets/images/link_block-related_images.png)
 
 
 **References  -** 
