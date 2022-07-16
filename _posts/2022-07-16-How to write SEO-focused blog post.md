@@ -84,7 +84,7 @@ Example of **in-text link:** [‘Anchor text’](https://yoast.com/what-is-ancho
 
 Example of link-blocks: “Related post” at the end of the page.
 
-![image-20220716214950860](../assets/images/link_block-related_images.png)
+
 
 **References  -** 
 
