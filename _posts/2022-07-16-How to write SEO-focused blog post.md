@@ -24,11 +24,15 @@ The following key points need to be considered whenever writing content for SEO 
 
 It should contain the **main keyword** + **related keywords** (optional) + **modifiers** (What, How, List, or, is, etc.)
 
+`main-keyword + related keyword + modifiers `
+
 The main heading becomes the topic of the content and should contain the main keyword as a must. You can also add another related keyword on the heading apart from the main keyword.
 
 ### Sub-heading & Content block
 
 To increase the chances of your post being first, you need to make sure that your sub-headings also contain the related **keywords** or their synonyms.
+
+`related kewords`
 
 In order to get more ideas about the sub-headings, you can check the suggestions offered at the end of search results or the “ **People also ask:**” section in search page results.
 
