@@ -30,7 +30,7 @@ It should contain the **main keyword** + **related keywords** (optional) + **mod
 
 The main heading becomes the topic of the content and should contain the **main keyword** as a must. You can also add another **related keyword** on the heading apart from the main keyword.
 
-![](../assets/images/related-keywords.png)
+
 
 ### Sub-heading & Content block
 
