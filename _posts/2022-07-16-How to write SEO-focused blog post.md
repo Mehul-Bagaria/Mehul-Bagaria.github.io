@@ -10,6 +10,8 @@ Whenever you create content for any website, you wish that your content comes fi
 
 SEO is the process of improving the visibility of the site when users do searches for a particular product or content on the internet through search engines. Better visibility leads to a higher number of visitors to your website.
 
+The SEO becomes critical because [almost 90%](https://ahrefs.com/blog/search-traffic-study/) content on the internet don't get any traffic from google-searches.
+
 In this blog post, you will see How to write content for SEO?
 
 ## Writing content for SEO
