@@ -74,15 +74,17 @@ Internal links are the link to different pages within the same website.
 
 It helps improve the discoverability of your pages and, more importantly, keeps visitors engaged in your website.
 
-- **Anchor text** : Anchor text is the word or phrase used to link to another page. Example- ‘Anchor text’ or add a link to this Anchor text should be descriptive.
+- **Anchor text** : Anchor text is the word or phrase used to link to another page. Example- [‘Anchor text’](https://yoast.com/what-is-anchor-text/#:~:text=Anchor%20text%20%E2%80%94%20or%20link%20text,they%20click%20on%20the%20link.) or the text should be descriptive.
 
 You can add an internal link by adding **an in-text link** or by adding separate **link blocks** that contain a set of links related to that page content.
 
-Example of **in-text link:** ‘Anchor text’
+Example of **in-text link:** [‘Anchor text’](https://yoast.com/what-is-anchor-text/#:~:text=Anchor%20text%20%E2%80%94%20or%20link%20text,they%20click%20on%20the%20link.)
 
 Example of link-blocks: “Related post” at the end of the page.
+
+![image-20220716214950860](../assets/images/link_block-related_images.png)
 
 **References  -** 
 
 * [Course - Marketing Strategy: SEO Content Writing](https://www.linkedin.com/learning/marketing-strategy-seo-content-writing)
-* [What is SEO](https://searchengineland.com/guide/what-is-seo)
+* [What is SEO ?](https://searchengineland.com/guide/what-is-seo)
