@@ -28,6 +28,8 @@ It should contain the **main keyword** + **related keywords** (optional) + **mod
 
 The main heading becomes the topic of the content and should contain the main keyword as a must. You can also add another related keyword on the heading apart from the main keyword.
 
+![](../assets/images/related-keywords.png)
+
 ### Sub-heading & Content block
 
 To increase the chances of your post being first, you need to make sure that your sub-headings also contain the related **keywords** or their synonyms.
@@ -36,19 +38,21 @@ To increase the chances of your post being first, you need to make sure that you
 
 In order to get more ideas about the sub-headings, you can check the suggestions offered at the end of search results or the “ **People also ask:**” section in search page results.
 
+Presence of **related keywords** in the sub-heading improves indexing of the page. 
+
 ### Meta-data
 
 It shows additional information about the page in the search results. It is not directly shown on your website page. Here is an example of what meta-data looks like when searching in a search engine.
 
-`Add image about meta-data - title tag and meta description example`
+![](../assets/images/meta-description.png)
 
 It comprises of two things -
 
-- **Title tag** [This affects ranking] - Is it the same as the main heading or not?
+- **Title tag** *[This affects ranking]* - It can be the heading or a combination of heading and website name.
 
-Main keyword + Additional keyword + modifiers.
+`Main keyword + Additional keyword + modifiers`
 
-- **Meta description** [This doesn’t affect ranking but affects CTR]
+- **Meta description** *[This doesn’t affect ranking but affects CTR]*- It is a snippet that provides short and relevant summary about a particular page.
 
 ### Image optimization
 
