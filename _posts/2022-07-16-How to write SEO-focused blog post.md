@@ -22,13 +22,13 @@ The following key points need to be considered whenever writing content for SEO 
 
 ### Heading
 
-It should contain the primary keyword + related keywords (optional) + modifiers (What, How, List, or, is, etc.)
+It should contain the **main keyword** + **related keywords** (optional) + **modifiers** (What, How, List, or, is, etc.)
 
 The main heading becomes the topic of the content and should contain the main keyword as a must. You can also add another related keyword on the heading apart from the main keyword.
 
 ### Sub-heading & Content block
 
-To increase the chances of your post being first, you need to make sure that your sub-headings also contain the related keywords or their synonyms.
+To increase the chances of your post being first, you need to make sure that your sub-headings also contain the related **keywords** or their synonyms.
 
 In order to get more ideas about the sub-headings, you can check the suggestions offered at the end of search results or the “ **People also ask:**” section in search page results.
 
@@ -52,13 +52,13 @@ Image optimization has a two-fold effect. It improves the page ranking in search
 
 - **Image name** - The image should be named properly before uploading to the website. Instead of putting a random name, use **a name that describes the image** or/and **keywords**.
 
-- Alt tag (Alternative tag)- Another way of desc*ribing* what the image is about. It is not visible on the website page directly, but it is present in the HTML file of the page. So, whenever a google goes through the page, it reads the written **alt tag.**
+- **Alt tag (Alternative tag)**- Another way of desc*ribing* what the image is about. It is not visible on the website page directly, but it is present in the HTML file of the page. So, whenever a google goes through the page, it reads the written **alt tag.**
 
-  The alt tag is also visible on a website page when images are disabled. ****
+  The alt tag is also visible on a website page when images are disabled.
 
   So, the alt tag should either be a word or phrase **describing the image** or the **page** it belongs to.
 
-  Image size - Image size should be less in order to increase page loading speed.
+- **Image size** - Image size should be less in order to increase page loading speed.
 
 ### Internal-links
 
@@ -73,3 +73,8 @@ You can add an internal link by adding **an in-text link** or by adding separate
 Example of **in-text link:** ‘Anchor text’
 
 Example of link-blocks: “Related post” at the end of the page.
+
+**References  -** 
+
+* [Course - Marketing Strategy: SEO Content Writing](https://www.linkedin.com/learning/marketing-strategy-seo-content-writing)
+* [What is SEO](https://searchengineland.com/guide/what-is-seo)
