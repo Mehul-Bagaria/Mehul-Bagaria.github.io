@@ -10,7 +10,7 @@ Whenever you create content for any website, you wish that your content comes fi
 
 SEO is the process of improving the visibility of the site when users do searches for a particular product or content on the internet through search engines. Better visibility leads to a higher number of visitors to your website.
 
-The SEO becomes critical because [almost 90%](https://ahrefs.com/blog/search-traffic-study/) content on the internet don't get any traffic from google-searches.
+The SEO becomes critical because almost $$ 90% $$ content on the internet don't get any traffic from google-searches.
 
 In this blog post, you will see How to write content for SEO?
 
@@ -30,7 +30,7 @@ It should contain the **main keyword** + **related keywords** (optional) + **mod
 
 The main heading becomes the topic of the content and should contain the **main keyword** as a must. You can also add another **related keyword** on the heading apart from the main keyword.
 
-
+![](../assets/images/related-keywords.png)
 
 ### Sub-heading & Content block
 
@@ -83,7 +83,7 @@ You can add an internal link by adding **an in-text link** or by adding separate
 Example of **in-text link:** [‘Anchor text’](https://yoast.com/what-is-anchor-text/#:~:text=Anchor%20text%20%E2%80%94%20or%20link%20text,they%20click%20on%20the%20link.)
 
 Example of link-blocks: “Related post” at the end of the page.
-
+![image-20220716214950860](../assets/images/link_block-related_images.png)
 
 
 **References  -** 
