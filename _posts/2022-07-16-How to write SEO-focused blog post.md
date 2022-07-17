@@ -80,9 +80,9 @@ It helps improve the discoverability of your pages and, more importantly, keeps 
 
 You can add an internal link by adding **an in-text link** or by adding separate **link blocks** that contain a set of links related to that page content.
 
-Example of **in-text link:** [‘Anchor text’](https://yoast.com/what-is-anchor-text/#:~:text=Anchor%20text%20%E2%80%94%20or%20link%20text,they%20click%20on%20the%20link.)
+Example of **in-text link**: [‘Anchor text’](https://yoast.com/what-is-anchor-text/#:~:text=Anchor%20text%20%E2%80%94%20or%20link%20text,they%20click%20on%20the%20link.)
 
-Example of link-blocks: “Related post” at the end of the page.
+Example of **link-blocks**: “Related post” at the end of the page.
 ![Link block example](/assets/images/link_block-related_images.png)
 
 
