@@ -10,8 +10,6 @@ When analyzing **wave propagation** inside a **periodic structure**, one may con
 
 By implementing the **Floquet-periodicity**, we can analyze wave propagation (mechanical waves or electromagnetic waves) within any material. This approach when coupled with **FEniCS**, will enable the analysis of any periodic structure under wave mechanics physics.
 
-
-
 ## Theory
 
 Bloch theorem describes the behavior of the wave propagation inside a periodic structure are analogous to plane wave modulated by a periodic function, which can be described mathematically as
@@ -40,7 +38,7 @@ $$
 k = \frac{1}{\lambda}
 $$
 
-A structure is considered **periodic **if its material properties repeat after certain intervals. 
+A structure is considered **periodic** if its material properties repeat after certain intervals. 
 
 Consider a unit cell as shown in below having periodicity $$R$$ equal to $$1$$ and the boundary value at left and right be $$u_l$$ and $$u_r$$, respectively. Then above equation reduces to 
 
@@ -61,7 +59,5 @@ $$
 [How to implement Bloch-Floquet Boundary condition?]([How to implement Bloch-Floquet Boundary condition? - FEniCS Project](https://fenicsproject.discourse.group/t/how-to-implement-bloch-floquet-boundary-condition/1504))
 
 [Bloch Floquet Boundary condition]([Bloch Floquet Boundary condition / Perfect Matching Layer - FEniCS Project](https://fenicsproject.discourse.group/t/bloch-floquet-boundary-condition-perfect-matching-layer/497))
-
-
 
 So, the question remains. **How to implement Floquet-Periodicity in FEniCS  or FEniCSx?**
