@@ -56,8 +56,8 @@ $$
 
 ## References
 
-[How to implement Bloch-Floquet Boundary condition?]([How to implement Bloch-Floquet Boundary condition? - FEniCS Project](https://fenicsproject.discourse.group/t/how-to-implement-bloch-floquet-boundary-condition/1504))
+[How to implement Bloch-Floquet Boundary condition? - FEniCS Project](https://fenicsproject.discourse.group/t/how-to-implement-bloch-floquet-boundary-condition/1504)
 
-[Bloch Floquet Boundary condition]([Bloch Floquet Boundary condition / Perfect Matching Layer - FEniCS Project](https://fenicsproject.discourse.group/t/bloch-floquet-boundary-condition-perfect-matching-layer/497))
+[Bloch Floquet Boundary condition / Perfect Matching Layer - FEniCS Project](https://fenicsproject.discourse.group/t/bloch-floquet-boundary-condition-perfect-matching-layer/497)
 
-So, the question remains. **How to implement Floquet-Periodicity in FEniCS  or FEniCSx?**
+> > > > > > > So, the question remains. **How to implement Floquet-Periodicity in FEniCS  or FEniCSx?**
