@@ -16,7 +16,7 @@ Of the many options that i checked, the [free-stopwatch](https://free-stopwatch.
 
 You can customize the size and theme. And, you can also export the data to `.txt` file. 
 
- Download link is here - [free-stopwatch]([https://free-stopwatch.com/](https://free-stopwatch.com/))
+ Download link is here - [free-stopwatch](https://free-stopwatch.com/))
 
 This is how it looks like
 
