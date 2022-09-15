@@ -20,4 +20,4 @@ You can customize the size and theme. And, you can also export the data to `.txt
 
 This is how it looks like
 
-![](C:\Users\User\AppData\Roaming\marktext\images\2022-09-15-22-14-38-image.png)
+![](\assets\images\floating_stopwatch.png)
