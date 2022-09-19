@@ -14,4 +14,4 @@ tag:
 
 * [Jupyter Widgets &mdash; Jupyter Widgets 8.0.2 documentation](https://ipywidgets.readthedocs.io/en/stable/index.html)
 
-* 
+* [How to create buttons in Jupyter? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-buttons-in-jupyter/)
