@@ -4,4 +4,4 @@ layout: about
 
 # Projects
 
-Still loading 
+Updating soon 🖥 !

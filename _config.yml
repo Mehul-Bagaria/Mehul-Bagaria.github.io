@@ -53,7 +53,16 @@ remote_theme: iitrabhi/moving
 plugins:
   - jekyll-feed
 
-
+# Social media links in footer
+twitter: "#"
+linkedin: "#"
+stackoverflow: "#"
+github: "#"
+researchgate: "#"
+orcid: "#"
+quora: "#"
+instagram: "#"
+facebook: "#"
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
