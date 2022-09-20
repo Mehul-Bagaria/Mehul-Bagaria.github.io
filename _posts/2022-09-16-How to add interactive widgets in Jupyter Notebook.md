@@ -59,6 +59,8 @@ The output will be a slider to manipulate the argument (order of polynomial) val
 
 ## References
 
+* [Example Github repo](https://github.com/Mehul-Bagaria/Python_lessons/blob/main/7_UI_controlled_input.ipynb)
+
 * [Jupyter Widgets &mdash; Jupyter Widgets 8.0.2 documentation](https://ipywidgets.readthedocs.io/en/stable/index.html)
 
 * [How to create buttons in Jupyter? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-buttons-in-jupyter/)
