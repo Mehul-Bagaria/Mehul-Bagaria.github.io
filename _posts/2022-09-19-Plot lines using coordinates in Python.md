@@ -10,7 +10,7 @@ In Python, there are multiple ways to  plot a curve, you can plot by defining th
 
 If you know the coordinate of the straight line, then you can plot that directly use `matplotlib` module.
 
-**Syntex:** `plt.plot(x_values, y_values, '-o', color = 'b', linestyle = '--' )`
+**Syntax:** `plt.plot(x_values, y_values, '-o', color = 'b', linestyle = '--' )`
 
 `x_values` and `y_values` are the points abscissa and ordinates written in the form of `list` or `tuple`.
 
