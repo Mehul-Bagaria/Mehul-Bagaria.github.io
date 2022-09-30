@@ -8,11 +8,11 @@ tag:
 
 To plot ellipse in Python you can use the polar form of the ellipse which is
 
- $x = u + a cos(t) ; y = v + b sin(t)$
+ $$x = u + a cos(t) ; y = v + b sin(t)$$
 
 of the ellipse having center at (u,v):
 
- $\frac{(x-u)^2}{a^2} + \frac{(y-v)^2}{b^2} = 1$
+ $$\frac{(x-u)^2}{a^2} + \frac{(y-v)^2}{b^2} = 1$$
 
 First we define the x and y coordinates of the ellipse (curve), then, we plot all the points.
 
