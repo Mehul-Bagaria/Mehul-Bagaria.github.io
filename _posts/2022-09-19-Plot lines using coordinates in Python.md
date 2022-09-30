@@ -14,7 +14,7 @@ If you know the coordinate of the straight line, then you can plot that directly
 
 `x_values` and `y_values` are the points abscissa and ordinates written in the form of `list` or `tuple`.
 
-`color = 'b'` and ` linestyle = '--'` are optional arguments.
+`color = 'b'` and `linestyle = '--'` are optional arguments.
 
 **Example:**
 
