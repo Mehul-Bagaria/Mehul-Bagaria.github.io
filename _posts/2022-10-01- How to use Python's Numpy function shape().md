@@ -41,7 +41,7 @@ np.shape(A)
 
 **Output:**
 
-![](C:\Users\User\AppData\Roaming\marktext\images\2022-10-01-12-50-54-image.png)
+![](\assets\images\np_shape_example1.png)
 
 This returns the shape of array, i.e. $2 \times 3$. But, when you need to elements in particular dimension then, you use the following approach.
 
@@ -58,7 +58,7 @@ A.shape[1]
 
 **Output:**
 
-![](C:\Users\User\AppData\Roaming\marktext\images\2022-10-01-12-51-05-image.png)
+![](\assets\images\np_shape_example2.png)
 
 `A.shape(1)` returns the number of elements in the 1st dimension of the array.
 
