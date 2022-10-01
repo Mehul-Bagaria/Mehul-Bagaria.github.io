@@ -16,7 +16,7 @@ where, `shape` defines the dimension of array, it can be integer or sequence. $[
 
 `order` defines whether to store in row-major (default) or coloumn major.
 
-Example:
+**Example:**
 
 ```python
 import numpy as np
@@ -24,11 +24,11 @@ import numpy as np
 np.zeros([2,3], dtype='int')
 ```
 
-Output:
+**Output:**
 
-![](C:\Users\User\AppData\Roaming\marktext\images\2022-10-01-12-11-45-image.png) 
+![](\assets\images\np_zeros_example1.png) 
 
-Example:
+**Example:**
 
 ```python
 import numpy as np
@@ -36,9 +36,9 @@ import numpy as np
 np.zeros(2, dtype='int')
 ```
 
-Output:
+**Output:**
 
-![](C:\Users\User\AppData\Roaming\marktext\images\2022-10-01-12-12-28-image.png)
+![](\assets\images\np_zeros_example2.png)
 
 ## References
 
