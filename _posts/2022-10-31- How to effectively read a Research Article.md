@@ -8,7 +8,7 @@ tag:
 
 Reading a research article is an art. Even though we spend quite a good amount of time doing that, but no one really teaches the approach that we should abapt. And the irony is, there are actually some standard and optimal ways of **reading a research paper**.
 
-The approach 'three pass' discussed below, coined by a **Stanford** prof. makes the reading effective and time saving.
+The approach **'three pass'** discussed below, coined by a **Stanford** prof. makes the reading effective and time saving.
 
 **The complete reading approach is divided into three major passes. These passes are:**
 
