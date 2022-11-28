@@ -16,11 +16,11 @@ Every blog post that goes in internet has many points that make them great for a
 - **Incredible post:** An ideal post keeps the user engaged throughout the post. Structured post with **proper sub-headings**, font size of **16-20** and **lots of visuals** psychologically keeps the user engaged in the post. Overall word count of the post **1000-2000** produces good outreach.
 - **Rewarding Conclusions:** Every great experience ends with a great ending. The blog post should conclude in a way that give reader the satisfaction of reading the post. The conclusions ideally contains a **transition phrase** to bring the readers to the ending. And then **redirect them to any questions** to be answered or any post to be read.
 
-Apart from the above aspect of a good blog posts, the role of SEO can’t be denied. A brief post on the SEO optimized blog post can be found here.
+Apart from the above aspect of a good blog posts, the role of SEO can’t be denied. A brief on the SEO optimized blog post can be found  in ([How to write SEO-focused blog post?](https://mehul-bagaria.github.io/content/writing/2022/07/16/How-to-write-SEO-focused-blog-post.html)).
 
 **Additional points regarding SEO for a post:**
 
-- **Keywords:** The keyword for the post should have **high search volumes**. And it should atleast be present in the main **heading** and the **sub-headings** should contains the related keywords. Variation in keywords can significantly affect the outreach of your blog. Use the tools like [Keywordintent](https://keywordintent.io/) to check for the search volumes of particular keywords.
+- **Keywords:** The keyword for the post should have **high search volumes**. And it should atleast be present in the main **heading** and the **sub-headings** should contains the related keywords. Variation in keywords can significantly affect the outreach of your blog. Use the **tools like [Keywordintent](https://keywordintent.io/)** to check for the search volumes of particular keywords.
 - **Internal links and short urls:** Statistically the **short urls** are generally ranked higher. Similarly, the internal links also adds to the SEO ranking.
 
 Lastly, devoting almost **50% of your time in promoting** your article through newsletters, social media pages can greatly enhance the outreach of your article.
@@ -31,4 +31,4 @@ Lastly, devoting almost **50% of your time in promoting** your article through n
 - [Keywords-everywhere - Find related keywords](https://keywordseverywhere.com/) [Tool]
 - [Brain Dean](https://www.youtube.com/watch?v=SwksMt9mE6Y&ab_channel=BrianDean)
 
-# 
+ 
