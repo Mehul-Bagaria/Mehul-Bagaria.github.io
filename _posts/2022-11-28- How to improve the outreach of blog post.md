@@ -28,7 +28,7 @@ Lastly, devoting almost **50% of your time in promoting** your article through n
 ## References
 
 - [Keywordintent - Find search volumes](https://keywordintent.io/) [Tool]
+- [Wordtracker - Find search volumes](https://www.wordtracker.com/)  [Tool]
+- [Searchvolume - Find search volumes](https://searchvolume.io/) [Tool]
 - [Keywords-everywhere - Find related keywords](https://keywordseverywhere.com/) [Tool]
 - [Brain Dean](https://www.youtube.com/watch?v=SwksMt9mE6Y&ab_channel=BrianDean)
-
- 
