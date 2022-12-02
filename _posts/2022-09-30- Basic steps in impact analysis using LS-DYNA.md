@@ -6,7 +6,7 @@ tag:
   - dynamic
 ---
 
-sLS-DYNA can be a great software when doing the explicit analysis or the analysis that happen in fraction of a seconds. These type of analysis involve high impact rate or high strain rate.
+LS-DYNA can be a great software when doing the explicit analysis or the analysis that happen in fraction of a seconds. These type of analysis involve high impact rate or high strain rate.
 
 ## LS-DYNA workflow for impact analysis
 
