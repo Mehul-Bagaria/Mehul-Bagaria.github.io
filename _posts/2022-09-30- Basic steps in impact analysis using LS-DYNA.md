@@ -6,7 +6,7 @@ tag:
   - dynamic
 ---
 
-# Write post on ballistic impact analysis of ceramics using LS-DYNA
+# 
 
 LS-DYNA can be a great software when doing the explicit analysis or the analysis that happen in fraction of a seconds. These type of analysis involve high impact rate or high strain rate.
 
