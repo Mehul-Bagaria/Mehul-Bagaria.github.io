@@ -18,7 +18,7 @@ In this blog post, you will see How to write content for SEO?
 
 Whenever a user is searching for any particular topic in the search engine. They are trying to get the result of what they are searching for, and their curiosity is satisfied in a minimum time. So, as a result the reader may scan through the entire post first.
 
-To make user your content user-friendly, you first need to make sure that your content is structured correctly and divided into proper sections separated by headings and sub-headings.
+To make user your content user-friendly, you first need to make sure that your content is **structured** correctly and **divided into proper sections** separated by headings and sub-headings.
 
 The following key points need to be considered whenever writing content for SEO :
 
