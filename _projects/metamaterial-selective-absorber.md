@@ -27,6 +27,7 @@ This project delves into the innovative field of metamaterials, exploring their 
 ## Images
 
 ![Metamaterial absorber unit cell](/images/image-1.png)
+Different structural and material configurations considered for the unit cell of the metamaterials.
 
 ## Conclusions
 This project investigates the fascinating world of metamaterials for thermal IR stealth applications. By examining material configurations, structural variations, and their effects on emissivity and radiative cooling, the project advances our understanding of how metamaterials can be harnessed for advanced stealth technology and thermal management.
