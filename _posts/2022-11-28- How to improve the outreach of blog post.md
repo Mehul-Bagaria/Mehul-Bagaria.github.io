@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to improve the outreach of blog post?"
 categories: content
 tag: 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to add interactive widgets in Jupyter Notebook?"
 categories: coding
 tag: 
@@ -21,8 +20,6 @@ Various widgets that are available:
 * Selection Range sliders
 
 * Toggle buttons etc.
-  
-  
 
 `interact` function in `ipywidgets` module generates user interface (UI) for interactive input and function manipulation. For example, the movement in slider can change the input value of the function and generates the corresponding output.
 
@@ -54,8 +51,6 @@ interact(poly_f, m =(-4,4))
 The output will be a slider to manipulate the argument (order of polynomial) value. And it will alter the plot based on the argument value.
 
 ![](\assets\images\ipywidgets_slider.png)
-
-
 
 ## References
 

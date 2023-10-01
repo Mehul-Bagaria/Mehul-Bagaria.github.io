@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Brief description on Bloch theorem"
-categories: wave mechanics
+categories: wave-mechanics
 tag: 
   - wave
 ---
-
-
 
 ### Bloch wave
 
@@ -14,20 +11,19 @@ Waves propagating in the periodic structure takes on the symmetry and periodicit
 
 ![Bloch wave propagation](/assets/images/bloch_1.png)
 
-
-
 ### Bloch theorem
+
 The propagation of wave inside  periodic structure are analogous to plane wave, and the envelop function $$u(\mathbf{r})$$ takes in the effects of periodicity and symmetry within the structure.
 
 $$ \psi(\mathbf{r})=\mathrm{e}^{\mathrm{i} \mathbf{k} \cdot \mathbf{r}} u(\mathbf{r}) $$
 
 where, $$\psi(\mathbf{r})$$ is the overall field {combination of plane wave and periodic function}
 
-​			$$\mathrm{e}^{\mathrm{i} \mathbf{k} \cdot \mathbf{r}}$$  is the plane wave {Bloch wave vector}
+​            $$\mathrm{e}^{\mathrm{i} \mathbf{k} \cdot \mathbf{r}}$$  is the plane wave {Bloch wave vector}
 
-​			$$u(\mathbf{r})$$ is the envelop function {takes the periodicity and symmetry of the periodic structure}
+​            $$u(\mathbf{r})$$ is the envelop function {takes the periodicity and symmetry of the periodic structure}
 
-#### Periodicity 
+#### Periodicity
 
 A structure is considered periodic, if it's material properties repeat after certain intervals. 
 
@@ -37,7 +33,7 @@ $$
 
 where, $$\mathbf {t_{pqr}}$$ is the periodicity of the structure.
 
-​			$$\mathbf{\varepsilon}$$ is the permittivity of the material.
+​            $$\mathbf{\varepsilon}$$ is the permittivity of the material.
 
 Amplitude $$A$$ of the Bloch wave will have the same periodicity as the structure, where wave is propagating.
 
@@ -52,8 +48,6 @@ $$
 $$
 
 ![Diffraction grating](/assets/images/bloch_2.png)
-
-
 
 ### Band diagram
 
@@ -81,9 +75,7 @@ Steps -
 
 *Full band diagram is 3D*
 
-
-
-### Phase v/s Power flow - 
+### Phase v/s Power flow -
 
 ![Phase v/s power flow](/assets/images/bloch_5.png)
 
@@ -92,7 +84,7 @@ Steps -
 
 **Example** - self collimation, where wave is forced to move straight (in the direction of the power $$\mathbf{\zeta}$$ )
 
-​					negative refractive index 
+​                    negative refractive index 
 
 ![Negative refraction](/assets/images/bloch_6.png)
 

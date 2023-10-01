@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What do * and ** before function arguments mean?"
 categories: coding
 tag: 

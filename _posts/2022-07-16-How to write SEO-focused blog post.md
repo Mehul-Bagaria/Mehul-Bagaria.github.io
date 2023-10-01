@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to write SEO-focused blog post?"
 categories: content writing
 tag: 
@@ -63,9 +62,9 @@ Image optimization has a two-fold effect. It improves the page ranking in search
 - **Image name** - The image should be named properly before uploading to the website. Instead of putting a random name, use **a name that describes the image** or/and **keywords**.
 
 - **Alt tag (Alternative tag)**- Another way of desc*ribing* what the image is about. It is not visible on the website page directly, but it is present in the HTML file of the page. So, whenever a google goes through the page, it reads the written **alt tag.**
-
+  
   The alt tag is also visible on a website page when images are disabled.
-
+  
   So, the alt tag should either be a word or phrase **describing the image** or the **page** it belongs to.
 
 - **Image size** - Image size should be less in order to increase page loading speed.
@@ -84,7 +83,6 @@ Example of **in-text link**: [‘Anchor text’](https://yoast.com/what-is-ancho
 
 Example of **link-blocks**: “Related post” at the end of the page.
 ![Link block example](/assets/images/link_block-related_images.png)
-
 
 **References  -** 
 

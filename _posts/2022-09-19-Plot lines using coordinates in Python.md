@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Plot lines using coordinates in Python"
 categories: coding
 tag: 

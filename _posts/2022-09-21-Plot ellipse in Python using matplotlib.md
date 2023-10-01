@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Plot ellipse in Python using matplotlib"
 categories: coding
 tag: 

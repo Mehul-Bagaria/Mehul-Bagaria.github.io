@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Color Python output text"
 categories: coding
 tag: 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What is Python's Numpy function zeros()?"
 categories: coding
 tag: 

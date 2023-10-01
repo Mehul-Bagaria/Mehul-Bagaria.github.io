@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Matrix multiplication for Rotational Transformation in Python"
 categories: coding
 tag: 

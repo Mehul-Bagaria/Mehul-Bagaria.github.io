@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Basic steps in impact analysis using LS-DYNA"
 categories: dynamic
 tag: 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Analogy of thermal and structural compliance"
 categories: thermal
 tag: 

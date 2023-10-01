@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Implementing Floquet Periodicity in FEniCS or FEniCSx"
 categories: wave mechanics
 tag: 

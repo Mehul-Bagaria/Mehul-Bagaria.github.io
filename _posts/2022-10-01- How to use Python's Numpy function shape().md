@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to use Python's Numpy function shape()?"
 categories: coding
 tag: 

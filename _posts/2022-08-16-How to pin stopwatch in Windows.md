@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to pin floating stopwatch in Windows?"
 categories: productivity
 tag: 

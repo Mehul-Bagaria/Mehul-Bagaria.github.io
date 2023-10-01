@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to effectively read a Research Article"
 categories: content
 tag: 
