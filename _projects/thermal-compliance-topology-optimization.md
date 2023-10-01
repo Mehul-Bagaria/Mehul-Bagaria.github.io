@@ -1,6 +1,6 @@
 ---
 title: "Thermal compliance topology optimisation"
-excerpt: "This project leverages Thermal Compliance Topology Optimization and finite element analysis to optimize geothermal heat exchanger (GHE) designs for high-temperature conditions. It employs open-source software for modeling and visualization, conducts parametric studies, and generates GHE structures resembling plant roots. The optimized GHE layouts enhance heat dissipation, reduce soil temperature impacts, and offer sustainable heating and cooling solutions.<br/><img src='/images/500x300.png'>"
+excerpt: "This project leverages Thermal Compliance Topology Optimization and finite element analysis to optimize geothermal heat exchanger (GHE) designs for high-temperature conditions. It employs open-source software for modeling and visualization, conducts parametric studies, and generates GHE structures resembling plant roots. The optimized GHE layouts enhance heat dissipation, reduce soil temperature impacts, and offer sustainable heating and cooling solutions.<br/><img src='/images/image-2.png'>"
 collection: projects
 ---
 
@@ -27,6 +27,7 @@ In this project, we explore the application of Thermal Compliance Topology Optim
 
 ## Images
 
-
+![Temperature distribution of GHE](/images/image-2.png)
+Temperature (K) distribution within soil for a) Optimized ground heat exchanger, b) Conventional serpentine ground heat exchanger. Optimized GHE has less factor of high temperature area as a result of enhanced heat transfer rate.
 ## Conclusions
 In summary, this project focuses on the innovative application of Thermal Compliance Topology Optimization to revolutionize the design of geothermal heat exchangers. Through advanced numerical analysis and parametric studies, we aim to create optimized GHE structures that enhance heat transfer efficiency, reduce energy consumption, and contribute to sustainable heating and cooling solutions for buildings and industrial applications.
