@@ -13,6 +13,7 @@ I'm a Mechanical Engineering graduate, and I've got a real knack for the nitty-g
 
 In my current gig, I'm diving headfirst into the captivating realm of Topology Optimization. Think of it as me playing around with the laws of physics, cranking up heat transfer rates, and doing a little electromagnetic magic to reshape wave patterns in those complex multi-layered structures.
 
+
 But there's more to my journey – I've got this thrilling project where I'm knee-deep in ballistic impact-related material analysis. It's a wild ride, and it's ever-evolving.
 
 Education
